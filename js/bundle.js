@@ -207,6 +207,26 @@ const formatCurrency = (number) => {
     return new Intl.NumberFormat("pt-Br", {style: 'currency', currency:"BRL"}).format(number)
 }
 
+const renderPageStructure = () =>{
+  const html = `
+      <header>
+        <h1>Catálogo</h1>
+      </header>
+      <div class="search">
+        <label for="">Ver carros a partir de (R$): </label>
+        <input type="text">
+        <button>Filtrar</button>
+      </div>
+      <div class="search">
+        <label for="">Exibir apenas da categoria: </label>
+        <select id="category">
+            <option value="">Todas as categorias</option>
+        </select>
+      </div>
+  `
+  categoriesElem.innerHTML += html
+}
 (function(){
+    renderPageStructure()
     renderContent(categories)
 })()

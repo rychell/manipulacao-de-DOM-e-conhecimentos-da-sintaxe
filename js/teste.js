@@ -140,21 +140,21 @@ const categories = [
     },
   ];
   
-  /* Perguntas
-  1 - Crie uma função que receba o objeto acima e retorne um array com o nome do carro mais antigo de cada categoria.
-  2 - Crie uma função que receba o objeto acima e retorne a média das avaliações dos carros que fazem parte da categoria
-  3 - Crie uma função que receba o objeto acima e retorne um array com o nome de cada carro  
-  */
-  
-  // Manipulação de DOM
-  
-  /**
-  1 - 
-   
-   */
-  
-  // Fetch
-  /**
-   * 
-   */
+/* Perguntas
+1 - Crie uma função que receba o objeto acima e retorne um array com o nome do carro mais antigo de cada categoria.
+2 - Crie uma função que receba o objeto acima e retorne a média das avaliações dos carros que fazem parte da categoria
+3 - Crie uma função que receba o objeto acima e retorne um array com o nome de cada carro  
+*/
+
+// Manipulação de DOM
+
+/**
+ 1 - 
+
+*/
+
+// Fetch
+/**
+ * 
+ */
   
