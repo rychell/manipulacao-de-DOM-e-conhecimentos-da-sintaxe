@@ -24,7 +24,7 @@ Exemplo: Visualizar itens da categoria X com valores a partir de Y.
 
 ## Sintaxe e lógica
 
-Na raiz deste repositório, abra a parta sintaxe-e-logica, lá você encontrará um arquivo chamado index.js, abra este arquivo com seu editor, e escreva funções que resolvam as 3 tarefas a seguir. Suas funções devem ser escritas dentro do próprio index.js. Ah, você pode usar o NodeJS para processar/debugar seu script, use no terminal do VS Code o comando: `node sintaxe-e-logica index.js`.
+Na raiz deste repositório, abra a parta sintaxe-e-logica, lá você encontrará um arquivo chamado index.js, abra este arquivo com seu editor, e escreva funções que resolvam as 3 tarefas a seguir. Suas funções devem ser escritas dentro do próprio index.js. Ah, você pode usar o NodeJS para processar/debugar seu script, use no terminal do VS Code o comando: `node ./sintaxe-e-logica/index.js`.
 
 ⚠⚠⚠ A ALTERAÇÃO DE QUALQUER OUTRO ARQUIVO QUE NÃO SEJA O index.js IRÁ INVALIDAR O SEU TESTE DE SINTAXE E LÓGICA. ⚠⚠⚠
 

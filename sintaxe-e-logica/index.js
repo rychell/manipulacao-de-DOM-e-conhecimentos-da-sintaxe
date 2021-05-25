@@ -141,4 +141,3 @@ const categories = [
   ];
   
 //Escreva seu código abaixo desse comentário
-  
